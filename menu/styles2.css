@@ -1,0 +1,18 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background: #063d17;
+    padding: 15px;
+}
+.menu a {
+    color: white;
+    text-decoration: none;
+}
+
+@media (max-width: 600px){
+    .menu {
+        flex-direction: column;
+        align-items: center;
+    }
+}
