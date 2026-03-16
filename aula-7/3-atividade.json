@@ -1,0 +1,29 @@
+[
+{
+    "Filmefav" : {
+        "título": "Brilho Eterno de Uma Mente Sem Lembranças",
+        "ano": 2004,
+        "diretor": "Michel Gondry",
+        "gênero": " Romance/Ficção científica"
+    }
+},
+
+{
+      "Aluno" : {
+        "nome": "Fernanda Fecô",
+        "idade": 17,
+        "notas": 3.5,
+        "aprovado": false
+    }
+},
+
+{
+  "Produto" : {
+        "nome": "Super Bonder",
+        "preço": 15,
+        "quantidade": "1",
+        "disponível": true
+    }
+}
+
+]

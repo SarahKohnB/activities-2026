@@ -1,0 +1,14 @@
+{
+    "cachorro" : {
+        "nome": "lixo",
+        "idade": 5,
+        "raca": "Husky",
+        "vacinado": true,
+        "peso": 10,
+        "brinquedos": ["osso carcomido"],
+        "dono":{
+            "nome": "Fecô",
+            "telefone": "11 911797806"
+        }
+    }
+}
